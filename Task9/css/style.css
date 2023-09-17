@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#section1 {
+  min-height: 95vh;
+  background: url(../images/bg.jpg) no-repeat center/100%;
+}
+.pics{
+  min-height: 200px;
+  background: rgba(1, 10, 1, 0.333);
+  text-align: center;
+  box-sizing: border-box;
+  padding-top: 40px;
+  color: #fff;
+  font-size: 28px;
+}
+#top div:hover {
+  background-color: rgba(255, 110, 58, 0.7);
+}
+#section2 div img {
+  border: 3px dotted rgb(202, 202, 202);
+}
+#about hr {
+  width: 80%;
+}
+#about p {
+  font-size: 16px;
+  
+}
+.img_about img {
+  height:100%;
+}
+#blog{
+  min-height: 450px;
+}
+#process {
+  background: url(../images/process-bg.jpg) no-repeat center/100%;
+  width: 100%;
+  min-height: 500px;
+}
+.process_icons {
+  min-height: 200px;
+}
+#process_icon1 {
+  background: url(../images/p-bg1.jpg) no-repeat center/100%;
+}
+#process_icon2 {
+  background: url(../images/p-bg2.jpg) no-repeat center/100%;
+}
+#process_icon3 {
+  background: url(../images/p-bg3.jpg) no-repeat center/100%;
+}
+#process_icon4 {
+  background: url(../images/p-bg4.jpg) no-repeat center/100%;
+}
+.process_icons figure {
+  margin: 25px auto;
+}
+footer img{
+  width: 50px;
+  height: 60px;
+}
